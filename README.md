@@ -1,4 +1,5 @@
 Customer Shopping Behavior Analysis:-
+
 An end-to-end Customer Shopping Behavior Analysis project using Python, SQL, and Power BI to uncover customer spending patterns, product preferences, discount behavior, subscription trends, and customer segments.
 
 Project Overview :-
